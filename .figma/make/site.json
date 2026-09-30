@@ -1,0 +1,10 @@
+{
+  "description": "This modern and responsive blog system allows users to view, comment on posts, and authors to manage their content seamlessly, enhancing user engagement and interaction.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
